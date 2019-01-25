@@ -1,0 +1,6 @@
+Enter the text
+Get to the safe zone
+Enter the key
+3
+Encrypted text is Gthaze otesfoet  en
+Decrypted text is Get to the safe zone
